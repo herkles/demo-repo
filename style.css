@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin:0;
+}
+.hulk {
+    display: inline-block;
+    padding: 50px;
+    margin: 50px;
+    background-color: green;
+}
