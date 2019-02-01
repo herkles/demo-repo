@@ -11,7 +11,7 @@ trigger:
 
 pr:
  - 'azure-piplines'
-
+  
 ## steps:
 # - script: 'dotnet restore ./MovieNight/MovieNight.sln'
 # - script: 'dotnet build ./MovieNight/MovieNight.sln'
